@@ -1,0 +1,5 @@
+2021-06-03 21:06:05,390 INFO c.a.m.SourceBooks [main] 6 books loaded from: D:\Java\FinalTaskJava\books.json
+2021-06-03 21:07:21,134 WARN c.a.c.v.CheckBookData [main] java.lang.NumberFormatException: For input string: "tyutyu"
+2021-06-03 21:07:27,686 WARN c.a.c.v.CheckBookData [main] BookException{ field=YEAR | value=2022 | isYear >> Incorrect year }
+2021-06-03 21:07:49,609 INFO c.a.m.SourceBooks [main] 7 books saved to: D:\Java\FinalTaskJava\books.json
+2021-06-03 21:07:57,159 INFO c.a.m.SourceBooks [main] 7 books loaded from: D:\Java\FinalTaskJava\books.json
